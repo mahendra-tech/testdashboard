@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2025-03-24 17:53:18">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+        <sys_created_on>2025-03-24 17:42:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>94089ae0872c6610ab8798eabbbb35b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TestDashboardIBM-CS7990867" source="x_snc_testdashboar">d1671ea0872c6610ab8798eabbbb352e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestDashboardIBM-CS7990867">d1671ea0872c6610ab8798eabbbb352e</sys_scope>
+        <sys_update_name>sys_portal_page_94089ae0872c6610ab8798eabbbb35b3</sys_update_name>
+        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+        <sys_updated_on>2025-03-24 17:42:28</sys_updated_on>
+        <title>New Tab 1</title>
+        <user/>
+        <view>new_tab_1_19_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="New Tab 1">94089ae0872c6610ab8798eabbbb35b3</page>
+                <summary>This weeks published articles</summary>
+                <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+                <sys_created_on>2025-03-24 17:42:28</sys_created_on>
+                <sys_id>90089ae0872c6610ab8798eabbbb35b5</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+                <sys_updated_on>2025-03-24 17:42:28</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2025-03-24 10:42:28">90089ae0872c6610ab8798eabbbb35b5</portal_section>
+                        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+                        <sys_created_on>2025-03-24 17:42:28</sys_created_on>
+                        <sys_id>50089ae0872c6610ab8798eabbbb35b7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+                        <sys_updated_on>2025-03-24 17:42:28</sys_updated_on>
+                        <value>content_block_lists</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2025-03-24 10:42:28">90089ae0872c6610ab8798eabbbb35b5</portal_section>
+                        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+                        <sys_created_on>2025-03-24 17:42:28</sys_created_on>
+                        <sys_id>9c089ae0872c6610ab8798eabbbb35b6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+                        <sys_updated_on>2025-03-24 17:42:28</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2025-03-24 10:42:28">90089ae0872c6610ab8798eabbbb35b5</portal_section>
+                        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+                        <sys_created_on>2025-03-24 17:42:28</sys_created_on>
+                        <sys_id>d8089ae0872c6610ab8798eabbbb35b6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+                        <sys_updated_on>2025-03-24 17:42:28</sys_updated_on>
+                        <value>This weeks published articles</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2025-03-24 10:42:28">90089ae0872c6610ab8798eabbbb35b5</portal_section>
+                        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+                        <sys_created_on>2025-03-24 17:42:28</sys_created_on>
+                        <sys_id>dc089ae0872c6610ab8798eabbbb35b5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+                        <sys_updated_on>2025-03-24 17:42:28</sys_updated_on>
+                        <value>b9f0c762dbf58f404dd1f3361d961940</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

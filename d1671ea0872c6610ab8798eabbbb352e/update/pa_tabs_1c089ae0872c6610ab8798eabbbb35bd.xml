@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="New Tab 1">54089ae0872c6610ab8798eabbbb35b7</canvas_page>
+        <name>1c089ae0872c6610ab8798eabbbb35bdNew Tab 1</name>
+        <page display_value="New Tab 1">94089ae0872c6610ab8798eabbbb35b3</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>mahendra.pratapsingh@snc</sys_created_by>
+        <sys_created_on>2025-03-24 17:42:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1c089ae0872c6610ab8798eabbbb35bd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>1c089ae0872c6610ab8798eabbbb35bdNew Tab 1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TestDashboardIBM-CS7990867" source="x_snc_testdashboar">d1671ea0872c6610ab8798eabbbb352e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestDashboardIBM-CS7990867">d1671ea0872c6610ab8798eabbbb352e</sys_scope>
+        <sys_update_name>pa_tabs_1c089ae0872c6610ab8798eabbbb35bd</sys_update_name>
+        <sys_updated_by>mahendra.pratapsingh@snc</sys_updated_by>
+        <sys_updated_on>2025-03-24 17:42:28</sys_updated_on>
+    </pa_tabs>
+</record_update>
